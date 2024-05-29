@@ -1,4 +1,4 @@
-no- 👋 Hi, I’m @merychikurteva
+ 👋 Hi, I’m @merychikurteva
 - 👀 I’m interested in project management 
 
 <!---
